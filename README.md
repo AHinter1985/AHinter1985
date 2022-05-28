@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHinter1985
 - 👀 I’m interested in  Desarrollo de software
- 🌱 I’m currently learning  .net, visual studio, c#, java
+- 🌱 I’m currently learning  .net, visual studio, c#, java
 - 💞️ I’m looking to collaborate on  cualquier tipo de proyecto
 - 📫 How to reach me  mediante telefono > +5493412501471, Correo> ahintermeister@gmail.com
 
